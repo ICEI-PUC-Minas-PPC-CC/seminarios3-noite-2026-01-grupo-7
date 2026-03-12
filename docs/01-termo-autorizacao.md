@@ -16,9 +16,7 @@
 | Campo | Informação |
 | ------- | ----------- |
 | Nome do Grupo | Grupo 7 |
-| Integrantes | Erick Simo de Souza Fernandes, Breno da Silva Almeida
-Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo
-Rafael Siqueira Leonardo|
+| Integrantes | Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo|
 | E-mail de contato | erick.ssf@icloud.com |
 | Telefone de contato | (19) 989349229 |
 
