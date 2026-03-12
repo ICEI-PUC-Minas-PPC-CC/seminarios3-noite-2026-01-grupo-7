@@ -36,20 +36,24 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Título/Tema da aplicação | |
-| Público-alvo | |
-| Nº estimado de usuários | |
-| Faixa etária do público | |
-| Tecnologias previstas | |
-| Hospedagem prevista | |
+| Título/Tema da aplicação | Plataforma Interativa Educacional para Pessoas Surdas |
+| Público-alvo | Pessoas com deficiência auditiva vinculadas à instituição Tarsa de Coimbra |
+| Nº estimado de usuários | Aproximadamente 50 a 100 usuários |
+| Faixa etária do público | Todas as idades |
+| Tecnologias previstas | Desenvolvimento web utilizando ferramentas de Vibe Coding, HTML, CSS, JavaScript e React |
+| Hospedagem prevista | Hospedagem em repositório no GitHub com acesso por meio de uma página web |
 
 ### Breve descrição da aplicação e sua finalidade
 
-(Descreva aqui o software que será desenvolvido, seus objetivos e como atende às demandas da comunidade.)
+A aplicação proposta consiste em um software interativo inspirado em plataformas de quiz educacional, como o Kahoot, porém adaptado para atender pessoas com deficiência auditiva. O sistema será desenvolvido como uma aplicação web intuitiva e acessível, permitindo a criação e participação em atividades interativas relacionadas ao cotidiano, aprendizado e desenvolvimento de habilidades.
+
+A plataforma terá como objetivo estimular a participação, o aprendizado e a interação entre os usuários da instituição Tarsa de Coimbra, utilizando recursos visuais e dinâmicos que facilitem a compreensão e o engajamento do público surdo.
 
 ## 4. Levantamento de Demandas da Comunidade
 
-(Descreva como as demandas foram levantadas — reuniões presenciais, reuniões online, conversa com responsável, questionário, etc. — e como a aplicação proposta atende a essas demandas.)
+O levantamento das demandas foi realizado por meio de conversas com responsáveis e análise do contexto da instituição Tarsa de Coimbra, que atende pessoas com deficiência auditiva. A partir dessas interações, identificou-se a necessidade de ferramentas digitais mais acessíveis e interativas que possam auxiliar no aprendizado e na comunicação no dia a dia.
+
+Com base nessas demandas, foi proposta a criação de uma aplicação web interativa que utiliza elementos visuais e dinâmicos para facilitar a participação dos usuários. A proposta busca promover maior inclusão digital, estimular o aprendizado e tornar as atividades mais atrativas para pessoas surdas de diferentes idades.
 
 ### Registro de contatos com a comunidade
 
