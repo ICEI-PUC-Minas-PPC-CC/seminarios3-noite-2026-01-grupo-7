@@ -10,16 +10,18 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| **Nome do Grupo** | *(preencher)* |
-| **Integrantes** | *(listar todos)* |
-| **E-mail de contato** | *(preencher)* |
-| **Comunidade parceira** | *(preencher)* |
+| **Nome do Grupo** | *Grupo 7* |
+| **Integrantes** | *Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo* |
+| **E-mail de contato** | *erick.ssf@icloud.com* |
+| **Comunidade parceira** | *Tarso de Coimbra* |
 
 ---
 
 ## 🎯 Software a Ser Desenvolvido
 
-(Descreva brevemente a aplicação que será desenvolvida e seu objetivo.)
+A proposta consiste no desenvolvimento de um software interativo inspirado em plataformas de questionários educacionais, como o Kahoot, porém adaptado para atender pessoas com deficiência auditiva. O sistema será implementado como uma aplicação web acessível e de fácil utilização, permitindo a criação e participação em atividades interativas relacionadas ao cotidiano, ao aprendizado e ao desenvolvimento de habilidades.
+
+A plataforma tem como objetivo promover a participação, o aprendizado e a interação entre os usuários da instituição Tarsa de Coimbra, utilizando principalmente recursos visuais, elementos dinâmicos e estratégias de acessibilidade que favoreçam a compreensão das atividades e aumentem o engajamento do público surdo.
 
 ---
 
