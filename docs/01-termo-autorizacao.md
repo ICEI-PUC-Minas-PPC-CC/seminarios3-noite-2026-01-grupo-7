@@ -2,9 +2,9 @@
 
 > **Status:**  (adicione um "x" para completar cada nível)
 
-- [x] Visualizado
+- [ ] Visualizado
 - [ ] Pendente
-- [ ] Enviado ao professor
+- [x] Enviado ao professor
 - [ ] Aprovado  
 
 > **Versão do termo .docx:** [baixar na atividade do Canvas]
@@ -15,16 +15,18 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome do Grupo | |
-| Integrantes | |
-| E-mail de contato | |
-| Telefone de contato | |
+| Nome do Grupo | Grupo 7 |
+| Integrantes | Erick Simo de Souza Fernandes, Breno da Silva Almeida
+Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo
+Rafael Siqueira Leonardo|
+| E-mail de contato | erick.ssf@icloud.com |
+| Telefone de contato | (19) 989349229 |
 
 ## 2. Dados da Comunidade / Instituição Parceira
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome da instituição | |
+| Nome da instituição | Tarso de Coimbra |
 | Endereço | |
 | Nome do responsável | |
 | Cargo/Função | |
