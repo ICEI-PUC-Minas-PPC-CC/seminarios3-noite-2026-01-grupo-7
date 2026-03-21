@@ -1,8 +1,8 @@
 # 02 — Documento de Requisitos do Software
 
-> **Grupo:** *(preencher)*  
-> **Aplicação:** *(preencher)*  
-> **Comunidade:** *(preencher)*
+> **Grupo:** *Grupo 7*  
+> **Aplicação:** *Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo*  
+> **Comunidade:** *CMAEE Dr. Tarso de Coimbra*
 
 ---
 
