@@ -8,6 +8,7 @@ Comunidade: CMAEE Dr. Tarso de Coimbra
 Uma aplicação web interativa, inspirada em plataformas de questionários, adaptada com foco em recursos visuais e baixa complexidade para engajar e facilitar o aprendizado de pessoas com deficiência auditiva.
 
 2. Público-Alvo
+
 | Campo | Informação |
 |---|---|
 | Perfil dos usuários | Alunos com surdez/deficiência auditiva e educadores da instituição. |
@@ -16,6 +17,7 @@ Uma aplicação web interativa, inspirada em plataformas de questionários, adap
 | Nível de familiaridade com tecnologia | Básico a intermediário. |
 
 3. Requisitos Funcionais
+
 | ID | Requisito | Prioridade | Origem da demanda |
 |---|---|---|---|
 | RF01 | Criação de questionários personalizados pelo professor. | Alta | Reunião com a comunidade |
@@ -25,6 +27,7 @@ Uma aplicação web interativa, inspirada em plataformas de questionários, adap
 | RF05 | Feedback visual imediato (acerto/erro) e ranking final. | Média | Reunião com a comunidade |
 
 4. Requisitos Não Funcionais
+
 | ID | Requisito | Categoria |
 |---|---|---|
 | RNF01 | A aplicação deve ser acessível via navegador web. | Acessibilidade |
@@ -42,6 +45,7 @@ Uma aplicação web interativa, inspirada em plataformas de questionários, adap
 - [x] Sem dependência de áudio para funcionalidades essenciais
 
 6. Tecnologias Escolhidas
+
 | Componente | Tecnologia |
 |---|---|
 | Front-end | HTML, CSS, JavaScript e React |
