@@ -1,7 +1,7 @@
 02 — Documento de Requisitos do Software
 ---
 Grupo: 7
-Aplicação: (Coloquem o nome do app de vocês aqui, ex: Kahoot Acessível)
+Aplicação: Kahoot acessível
 Comunidade: CMAEE Dr. Tarso de Coimbra
 
 1. Visão Geral
