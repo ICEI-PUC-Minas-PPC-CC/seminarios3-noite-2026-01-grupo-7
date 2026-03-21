@@ -1,8 +1,8 @@
 02 — Documento de Requisitos do Software
 ---
-Grupo: 7
-Aplicação: Kahoot acessível
-Comunidade: CMAEE Dr. Tarso de Coimbra
+Grupo: 7 |
+Aplicação: Kahoot acessível |
+Comunidade: CMAEE Dr. Tarso de Coimbra 
 
 1. Visão Geral
 Uma aplicação web interativa, inspirada em plataformas de questionários, adaptada com foco em recursos visuais e baixa complexidade para engajar e facilitar o aprendizado de pessoas com deficiência auditiva.
