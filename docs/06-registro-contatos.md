@@ -1,7 +1,7 @@
 # 06 — Registro de Contatos com a Comunidade
 
 > **Grupo: 7** 
-> **Comunidade: Tarso de Coimbra**
+> **Comunidade: CMAEE Dr. Tarso de Coimbra**
 
 ---
 
@@ -17,9 +17,9 @@
 | Campo | Informação |
 | ------- | ----------- |
 | Data | 06/03/2026 |
-| Forma de contato | Presencial |
+| Forma de contato | Online |
 | Participantes do grupo | Alunos da disciplina de Seminários 3 |
-| Participantes da comunidade | Professor responsável pela disciplina e representante da instituição Tarsa de Coimbra |
+| Participantes da comunidade | Fabiana |
 | Objetivo do contato | Discutir possíveis temas de projeto e identificar demandas da comunidade atendida pela instituição |
 
 **Resumo do que foi tratado:**
