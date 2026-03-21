@@ -24,11 +24,11 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome da instituição | Tarso de Coimbra |
-| Endereço | |
-| Nome do responsável | |
-| Cargo/Função | |
-| Telefone ou e-mail da instituição | |
+| Nome da instituição | CMAEE Dr. Tarso de Coimbra |
+| Endereço |  R. Mario Xandó de Oliveira, 2 - São Geraldo |
+| Nome do responsável | Fabiana |
+| Cargo/Função | Professora |
+| Telefone ou e-mail da instituição | (35) 3697-2126 |
 
 > **Nota:** O professor responsável pela disciplina poderá entrar em contato com a comunidade/instituição acima indicada para fins de validação das informações, acompanhamento do desenvolvimento, ajustes no planejamento e alinhamentos necessários à entrega do software.
 
@@ -37,8 +37,8 @@
 | Campo | Informação |
 | ------- | ----------- |
 | Título/Tema da aplicação | Plataforma Interativa Educacional para Pessoas Surdas |
-| Público-alvo | Pessoas com deficiência auditiva vinculadas à instituição Tarsa de Coimbra |
-| Nº estimado de usuários | Aproximadamente 50 a 100 usuários |
+| Público-alvo | Pessoas com deficiência auditiva vinculadas à instituição CMAEE Dr.Tarso de Coimbra |
+| Nº estimado de usuários | Aproximadamente 15 usúarios |
 | Faixa etária do público | Todas as idades |
 | Tecnologias previstas | Desenvolvimento web utilizando ferramentas de Vibe Coding, HTML, CSS, JavaScript e React |
 | Hospedagem prevista | Hospedagem em repositório no GitHub com acesso por meio de uma página web |
