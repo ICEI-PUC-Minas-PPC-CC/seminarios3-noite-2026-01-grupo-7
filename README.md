@@ -13,7 +13,7 @@
 | **Nome do Grupo** | *Grupo 7* |
 | **Integrantes** | *Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo* |
 | **E-mail de contato** | *erick.ssf@icloud.com* |
-| **Comunidade parceira** | *Tarso de Coimbra* |
+| **Comunidade parceira** | *CMAEE Dr. Tarso de Coimbra* |
 
 ---
 
