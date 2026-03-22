@@ -56,7 +56,7 @@ O principal objetivo é facilitar o aprendizado, promover a inclusão digital e 
 | Hospedagem | Github Pages |
 
 7. Protótipo / Wireframes
-* https://carrot-bolt-90784721.figma.site *
+* https://www.figma.com/community/file/1617346242037995583/quiz-educacional-acessivel *
 
 8. Escopo Mínimo Viável (MVP)
 - [x] Criação de um quiz com suporte a imagens.
