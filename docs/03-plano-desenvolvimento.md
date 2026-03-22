@@ -9,8 +9,8 @@
 
 | Integrante | Responsabilidades principais |
 | ----------- | ------------------------------ |
-| **Pedro Henrique** | Documentação de Requisitos e Prototipação (Figma) |
-| **Erick Simo** | Desenvolvimento Front-end (UI/UX) |
+| **Pedro Henrique** | Documentação de Requisitos |
+| **Erick Simo** | Prototipação (Figma) |
 | **Breno da Silva** | Desenvolvimento Front-end (Integração e Lógica) |
 | **Rafael Siqueira** | Desenvolvimento Back-end e Banco de Dados |
 
