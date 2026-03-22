@@ -47,11 +47,11 @@
 
 A aplicação proposta consiste em um software interativo inspirado em plataformas de quiz educacional, como o Kahoot, porém adaptado para atender pessoas com deficiência auditiva. O sistema será desenvolvido como uma aplicação web intuitiva e acessível, permitindo a criação e participação em atividades interativas relacionadas ao cotidiano, aprendizado e desenvolvimento de habilidades.
 
-A plataforma terá como objetivo estimular a participação, o aprendizado e a interação entre os usuários da instituição Tarsa de Coimbra, utilizando recursos visuais e dinâmicos que facilitem a compreensão e o engajamento do público surdo.
+A plataforma terá como objetivo estimular a participação, o aprendizado e a interação entre os usuários da instituição Tarso de Coimbra, utilizando recursos visuais e dinâmicos que facilitem a compreensão e o engajamento do público surdo.
 
 ## 4. Levantamento de Demandas da Comunidade
 
-O levantamento das demandas foi realizado por meio de conversas com responsáveis e análise do contexto da instituição Tarsa de Coimbra, que atende pessoas com deficiência auditiva. A partir dessas interações, identificou-se a necessidade de ferramentas digitais mais acessíveis e interativas que possam auxiliar no aprendizado e na comunicação no dia a dia.
+O levantamento das demandas foi realizado por meio de conversas com responsáveis e análise do contexto da instituição Tarso de Coimbra, que atende pessoas com deficiência auditiva. A partir dessas interações, identificou-se a necessidade de ferramentas digitais mais acessíveis e interativas que possam auxiliar no aprendizado e na comunicação no dia a dia.
 
 Com base nessas demandas, foi proposta a criação de uma aplicação web interativa que utiliza elementos visuais e dinâmicos para facilitar a participação dos usuários. A proposta busca promover maior inclusão digital, estimular o aprendizado e tornar as atividades mais atrativas para pessoas surdas de diferentes idades.
 
