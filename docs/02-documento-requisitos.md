@@ -52,6 +52,7 @@ O principal objetivo é facilitar o aprendizado, promover a inclusão digital e 
 |---|---|
 | Front-end | HTML, CSS, JavaScript e React |
 | Back-end  | (Não definido – possível uso de Node.js) |
+| Prototipação/UI Design | Figma |
 | Banco de dados | Não definido |
 | Hospedagem | Github Pages |
 
