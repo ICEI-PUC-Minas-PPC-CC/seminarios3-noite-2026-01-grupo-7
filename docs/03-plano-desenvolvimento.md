@@ -21,7 +21,7 @@
 | 1 | 18/02 à 25/02 | Formação do grupo | Todos | concluído |
 | 2 | 26/02 à 04/03 | Contato com comunidade e Levantamento de demandas | Todos | concluído |
 | 3 | 05/03 à 11/03 | Definição de requisitos | Pedro | concluído |
-| 4 | 12/03 à 18/03 | Prototipação / wireframes | Pedro | em andamento |
+| 4 | 12/03 à 18/03 | Prototipação / wireframes | Pedro | iniciado |
 | 5 | 19/03 à 25/03 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | não iniciado |
 | 6 | 26/03 à 01/04 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | não iniciado |
 | 7 | 02/04 à 08/04 | Validação com a comunidade | Todos | não iniciado |
