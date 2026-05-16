@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tarso Quiz</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background: #f2f5f9;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .quiz-container {
+      background: white;
+      width: 100%;
+      max-width: 700px;
+      border-radius: 20px;
+      padding: 30px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .top-info {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+
+    .question {
+      font-size: 1.4rem;
+      margin-bottom: 20px;
+    }
+
+    #question-image {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  display: none;
+}
+
+    .answers {
+      display: grid;
+      gap: 15px;
+    }
+
+    button {
+      padding: 15px;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      font-size: 1rem;
+      transition: 0.2s;
+    }
+
+    button:hover {
+      transform: scale(1.02);
+    }
+
+    .correct {
+      background-color: #7dff9b;
+    }
+
+    .wrong {
+      background-color: #ff8c8c;
+    }
+
+    .default {
+      background-color: #e4e9f0;
+    }
+
+    .result {
+      text-align: center;
+      display: none;
+    }
+
+    .result h2 {
+      margin-bottom: 20px;
+      font-size: 2rem;
+    }
+
+    .restart {
+      margin-top: 20px;
+      background-color: #4f7cff;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="quiz-container">
+
+    <div id="quiz-screen">
+      <h1>Tarso Quiz</h1>
+
+      <div class="top-info">
+        <span id="question-number">Pergunta 1</span>
+        <span id="timer">Tempo: 15</span>
+        <span id="score">Pontos: 0</span>
+      </div>
+
+      <div class="question" id="question"></div>
+
+      <img id="question-image" src="" alt="Imagem da pergunta">
+
+      <div class="answers" id="answers"></div>
+
+    </div>
+
+    <div class="result" id="result-screen">
+      <h2>Quiz Finalizado!</h2>
+      <p id="final-score"></p>
+
+      <button class="restart" onclick="restartQuiz()">
+        Jogar Novamente
+      </button>
+    </div>
+
+  </div>
+
+  <script>
+    const questions = [
+      {
+        question: 'Uma pessoa ajuda um idoso a atravessar a rua. Qual valor está sendo demonstrado?',
+        image: 'https://img.freepik.com/fotos-premium/mulher-idosa-com-mascara-medica-usando-uma-bengala-enquanto-atravessa-a-rua-com-uma-jovem-voluntaria-carregando-sua-sacola-de-compras_317809-2476.jpg?semt=ais_hybrid&w=740&q=80',
+        answers: ['Preguiça', 'Respeito', 'Egoísmo', 'Impaciência'],
+        correct: 1
+      },
+      {
+        question: 'Alguém chega no horário combinado para um compromisso. Que valor está demonstrando?',
+        image: 'https://img.freepik.com/fotos-premium/que-horas-sao-confiante-ocupado-bonito-olhando-para-o-relogio-e-verificando-as-horas-enquanto-tem-um-compromisso_259150-22453.jpg',
+        answers: ['Atraso', 'Pontualidade', 'Descompromisso', 'Negligência'],
+        correct: 1
+      },
+      {
+        question: 'Um estudante encontra uma carteira no chão e devolve ao dono. Que valor ele demonstra?',
+        image: 'https://cdn6.campograndenews.com.br/uploads/noticias/2020/04/30/1hb0jf0x4ktbv.jpg',
+        answers: ['Ganância','Desonestidade','Inveja','Honestidade'],
+        correct: 3
+      },
+      {
+        question: 'Alguém compartilha seu lanche com um colega que esqueceu o dele. Qual valor está presente?',
+        image: 'https://colegiocbv.com.br/wp-content/uploads/blog/2016/11/Colegio-Boa-Viagem-Lanche-coletivo-momento-de-interacao-descoberta-e-ampliacao-do-cardapio.png',
+        answers: ['Egoísmo','Raiva','Solidariedade','Orgulho'],
+        correct: 2
+      },
+      {
+        question: 'Uma pessoa cuida do meio ambiente, jogando lixo na lixeira. Que valor demonstra?',
+        image:'https://extra.globo.com/incoming/20358309-815-ce9/w976h550-PROP/2014-743447121-2014-743250578-2014081801498_20140818_20140819.jpg',
+        answers: ['Responsabilidade','Descuidado','Preguiça','Desdem'],
+        correct: 0
+      }
+    ];
+
+    let currentQuestion = 0;
+    let score = 0;
+    let timeLeft = 30;
+    let timer;
+
+    const questionElement = document.getElementById('question');
+    const imageElement = document.getElementById('question-image');
+    const answersElement = document.getElementById('answers');
+    const scoreElement = document.getElementById('score');
+    const timerElement = document.getElementById('timer');
+    const questionNumberElement = document.getElementById('question-number');
+
+    function loadQuestion() {
+      clearInterval(timer);
+      timeLeft = 15;
+      startTimer();
+
+      const q = questions[currentQuestion];
+
+      questionNumberElement.textContent = `Pergunta ${currentQuestion + 1}`;
+      questionElement.textContent = q.question;
+      if(q.image) {
+        imageElement.src = q.image;
+        imageElement.style.display = 'block';
+      } else {
+        imageElement.style.display = 'none';
+      }
+      answersElement.innerHTML = '';
+
+      q.answers.forEach((answer, index) => {
+        const button = document.createElement('button');
+        button.textContent = answer;
+        button.classList.add('default');
+
+        button.onclick = () => checkAnswer(index, button);
+
+        answersElement.appendChild(button);
+      });
+    }
+
+    function checkAnswer(selected, button) {
+      clearInterval(timer);
+
+      const correct = questions[currentQuestion].correct;
+      const buttons = answersElement.querySelectorAll('button');
+
+      buttons.forEach((btn, index) => {
+        btn.disabled = true;
+        btn.classList.remove('default');
+
+        if(index === correct) {
+          btn.classList.add('correct');
+        }
+      });
+
+      if(selected === correct) {
+        score += 100;
+        scoreElement.textContent = `Pontos: ${score}`;
+      } else {
+        button.classList.remove('default');
+        button.classList.add('wrong');
+      }
+
+      setTimeout(() => {
+        currentQuestion++;
+
+        if(currentQuestion < questions.length) {
+          loadQuestion();
+        } else {
+          finishQuiz();
+        }
+      }, 1500);
+    }
+
+    function startTimer() {
+      timerElement.textContent = `Tempo: ${timeLeft}`;
+
+      timer = setInterval(() => {
+        timeLeft--;
+        timerElement.textContent = `Tempo: ${timeLeft}`;
+
+        if(timeLeft <= 0) {
+          clearInterval(timer);
+          currentQuestion++;
+
+          if(currentQuestion < questions.length) {
+            loadQuestion();
+          } else {
+            finishQuiz();
+          }
+        }
+      }, 1000);
+    }
+
+    function finishQuiz() {
+      document.getElementById('quiz-screen').style.display = 'none';
+      document.getElementById('result-screen').style.display = 'block';
+
+      document.getElementById('final-score').textContent =
+        `Você fez ${score} pontos!`;
+    }
+
+    function restartQuiz() {
+      currentQuestion = 0;
+      score = 0;
+      scoreElement.textContent = 'Pontos: 0';
+
+      document.getElementById('quiz-screen').style.display = 'block';
+      document.getElementById('result-screen').style.display = 'none';
+
+      loadQuestion();
+    }
+
+    loadQuestion();
+  </script>
+
+</body>
+</html>
