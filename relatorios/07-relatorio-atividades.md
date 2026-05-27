@@ -34,6 +34,13 @@
 | | **Entrega presencial do software** | |
 | | Preenchimento dos relatórios | |
 
+## Testes realizados
+
+- Teste do cronômetro
+- Teste de pontuação
+- Teste responsivo
+- Teste de reinicialização
+
 ## Descrição das Atividades Realizadas
 
 (Descreva de forma detalhada as atividades desenvolvidas ao longo do semestre.)
