@@ -8,9 +8,9 @@
 
 | Campo | Informação |
 |-------|-----------|
-| Nome da aplicação | *(preencher)* |
-| Tecnologias utilizadas | *(preencher)* |
-| URL em produção | *(preencher, se hospedado)* |
+| Nome da aplicação | *TarsoQuiz* |
+| Tecnologias utilizadas | *HTML, CSS, JS e SQL* |
+| URL em produção | *https://icei-puc-minas-ppc-cc.github.io/seminarios3-noite-2026-01-grupo-7/src/tarsoquiz.html* |
 
 ## Como Executar Localmente
 
@@ -32,13 +32,14 @@ npm start
 
 ```
 src/
-├── index.html
-├── style.css
-├── script.js
-└── ...
+├── tarso-quiz.html    ← estrutura HTML
+├── css/
+│   └── styles.css     ← estilos e animações
+└── js/
+    ├── questions.js   ← dados das perguntas
+    └── app.js         ← lógica do quiz
 ```
 
-*(Adapte conforme as tecnologias escolhidas pelo grupo.)*
 
 ## Deploy
 
