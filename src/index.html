@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tarso Quiz</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <div class="quiz-container" id="quiz-container">
+    <div class="progress-track" aria-hidden="true">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+
+    <div id="name-screen">
+      <h1>Tarso Quiz</h1>
+      <p class="name-subtitle">Digite seu nome para começar o teste</p>
+      <label class="name-label" for="player-name">Seu nome</label>
+      <input
+        type="text"
+        id="player-name"
+        class="name-input"
+        placeholder="Ex: Maria"
+        maxlength="30"
+        autocomplete="name"
+      />
+      <p class="name-error" id="name-error" aria-live="polite"></p>
+      <button class="start-btn" type="button" id="start-btn">
+        Começar Quiz
+      </button>
+    </div>
+
+    <div id="quiz-screen" style="display: none">
+      <h1>Tarso Quiz</h1>
+
+      <div class="top-info">
+        <span id="question-number">Pergunta 1</span>
+        <div class="timer-wrap" aria-label="Tempo restante">
+          <svg class="timer-svg" viewBox="0 0 44 44">
+            <defs>
+              <linearGradient id="timerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#667eea" />
+                <stop offset="100%" stop-color="#764ba2" />
+              </linearGradient>
+            </defs>
+            <circle class="timer-bg" cx="22" cy="22" r="18" />
+            <circle class="timer-progress" id="timer-circle" cx="22" cy="22" r="18" />
+          </svg>
+        </div>
+        <span id="score">Pontos: 0</span>
+      </div>
+
+      <div class="question" id="question"></div>
+
+      <img id="question-image" src="" alt="Imagem da pergunta" />
+
+      <div class="answers" id="answers"></div>
+    </div>
+
+    <div class="result" id="result-screen" style="display: none">
+      <h2>Quiz Finalizado!</h2>
+      <p class="result-greeting" id="result-greeting"></p>
+      <div class="stars" id="stars" aria-label="Avaliação por estrelas"></div>
+      <p id="final-score"></p>
+
+      <div class="leaderboard">
+        <h3 class="leaderboard-title">🏆 Top 5</h3>
+        <div id="leaderboard-list"></div>
+      </div>
+
+      <button class="restart" type="button">
+        Jogar Novamente
+      </button>
+    </div>
+  </div>
+
+  <script src="js/config.js"></script>
+  <script src="js/questions.js"></script>
+  <script src="js/leaderboard.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>
