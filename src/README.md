@@ -45,19 +45,16 @@
 
 ## Como Executar Localmente
 
-*(Descreva os passos para rodar a aplicação localmente.)*
-
 ```bash
 # Exemplo:
 # 1. Clone o repositório
-git clone <url-do-repositorio>
+git clone <https://github.com/ICEI-PUC-Minas-PPC-CC/seminarios3-noite-2026-01-grupo-7/tree/main/src>
 
-# 2. Instale as dependências
-npm install
+# 2. Rodar o HTML do projeto
+index.html
 
-# 3. Execute a aplicação
-npm start
 ```
+
 
 ## Estrutura do Código
 
