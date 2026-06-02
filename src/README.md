@@ -16,6 +16,33 @@
 
 *O Tarso Quiz é uma plataforma educacional inspirada no modelo de quizzes interativos (como kahoot), desenvolvida com foco em acessibilidade para pessoas surdas. O objetivo é tornar o aprendizado mais inclusivo por meio de perguntas e respostas acompanhadas por recursos visuais*
 
+## Objetivos
+
+- Promover a inclusão digital e educacional de pessoas surdas.
+- Facilitar o aprendizado através de recursos visuais e fotos.
+- Tornar atividades de avaliação mais acessíveis.
+- Incentivar o uso da tecnologia como ferramenta de ensino inclusivo.
+
+## Público-Alvo
+
+- Estudantes da Tarseo de Coimbra
+- Professores
+- Instituições de ensino
+- Projetos de educação inclusiva
+
+  
+## Funcionalidades
+
+✅ Criação de quizzes personalizados.
+
+✅ Perguntas com imagens ilustrativas.
+
+✅ Sistema de pontuação em tempo real.
+
+✅ Ranking dos participantes.
+
+✅ Interface responsiva para computadores, tablets e smartphones.
+
 ## Como Executar Localmente
 
 *(Descreva os passos para rodar a aplicação localmente.)*
