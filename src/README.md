@@ -12,6 +12,10 @@
 | Tecnologias utilizadas | *HTML, CSS, JS e SQL* |
 | URL em produção | *https://icei-puc-minas-ppc-cc.github.io/seminarios3-noite-2026-01-grupo-7/src/tarsoquiz.html* |
 
+## Descrição
+
+*O Tarso Quiz é uma plataforma educacional inspirada no modelo de quizzes interativos (como kahoot), desenvolvida com foco em acessibilidade para pessoas surdas. O objetivo é tornar o aprendizado mais inclusivo por meio de perguntas e respostas acompanhadas por recursos visuais*
+
 ## Como Executar Localmente
 
 *(Descreva os passos para rodar a aplicação localmente.)*
