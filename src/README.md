@@ -25,7 +25,7 @@
 
 ## Público-Alvo
 
-- Estudantes da Tarseo de Coimbra
+- Estudantes da Tarso de Coimbra
 - Professores
 - Instituições de ensino
 - Projetos de educação inclusiva
@@ -41,7 +41,7 @@
 
 ✅ Ranking dos participantes.
 
-✅ Interface responsiva para computadores, tablets e smartphones.
+✅ Interface para computadores, tablets e smartphones.
 
 ## Como Executar Localmente
 
