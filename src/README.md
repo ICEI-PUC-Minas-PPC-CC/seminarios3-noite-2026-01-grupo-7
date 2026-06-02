@@ -43,4 +43,4 @@ src/
 
 ## Deploy
 
-*(Descreva como foi feito o deploy e onde a aplicação está hospedada.)*
+*Deplay feito no Github Pages, banco de dados hospedado no Supabase*
