@@ -1,38 +1,33 @@
 # 07 — Base para o Relatório de Atividades (APC)
-
-> **Objetivo:** Este documento serve como rascunho e base para o preenchimento do relatório de atividades no sistema APC. **Um integrante do grupo** preenche o relatório no APC incluindo **todos** os colegas que participaram.
-
 ---
 
 ## Dados do Grupo
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome do Grupo | |
-| Integrantes participantes | |
+| Nome do Grupo | Grupo 7 |
+| Integrantes participantes | Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo |
 | Disciplina | Seminários III |
-| Comunidade atendida | |
-| Software desenvolvido | |
-| URL da aplicação (se hospedada) | |
+| Comunidade atendida | CMAEE Dr. Tarso de Coimbra |
+| Software desenvolvido | TarsoQuiz |
+| URL da aplicação | https://icei-puc-minas-ppc-cc.github.io/seminarios3-noite-2026-01-grupo-7/src/tarsoquiz.html |
 
 ## Cronograma de Desenvolvimento
 
-> **Atenção:** O relatório APC exige um cronograma detalhado. Relatórios com poucas atividades ou sem descrição adequada serão penalizados.
-
 | Data | Etapa | Descrição do que foi feito |
 | ------ | ------- | --------------------------- |
-| | Formação do grupo | |
+| | Formação do grupo | 01/03/2026 |
 | | Contato inicial com a comunidade | |
-| | Levantamento de demandas | |
-| | Definição de requisitos | |
-| | Prototipação / wireframes | |
-| | Desenvolvimento — Sprint 1 | |
-| | Validação intermediária com a comunidade | |
-| | Desenvolvimento — Sprint 2 | |
-| | Testes e ajustes | |
-| | Deploy em nuvem | |
-| | **Entrega presencial do software** | |
-| | Preenchimento dos relatórios | |
+| | Levantamento de demandas | 15/03/2026 |
+| | Definição de requisitos | 21/03/2026 |
+| | Prototipação / wireframes | 12/04/2026 |
+| | Desenvolvimento — Sprint 1 |16/05/2026 |
+| | Validação intermediária com a comunidade |  |
+| | Desenvolvimento — Sprint 2 | 25/05/2026 |
+| | Testes e ajustes | 28/05/2026 |
+| | Deploy em nuvem | 01/06/2026 |
+| | **Entrega presencial do software** | 18/06/2026 |
+| | Preenchimento dos relatórios | 13/06/2026 |
 
 ## Testes realizados
 
