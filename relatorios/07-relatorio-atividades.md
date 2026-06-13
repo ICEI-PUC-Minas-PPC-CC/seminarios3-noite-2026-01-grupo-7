@@ -17,12 +17,12 @@
 | Data | Etapa | Descrição do que foi feito |
 | ------ | ------- | --------------------------- |
 | 01/03/2026 | Formação do grupo |  |
-| | Contato inicial com a comunidade | |
+| 06/03/2026 | Contato inicial com a comunidade | |
 | 15/03/2026 | Levantamento de demandas |  |
 | 21/03/2026 | Definição de requisitos |  |
 | 12/04/2026 | Prototipação / wireframes |  |
 | 16/05/2026 | Desenvolvimento — Sprint 1 | |
-| | Validação intermediária com a comunidade |  |
+|  | Validação intermediária com a comunidade |  |
 | 25/05/2026 | Desenvolvimento — Sprint 2 | |
 | 28/05/2026 | Testes e ajustes |  |
 | 01/06/2026 | Deploy em nuvem |  |
