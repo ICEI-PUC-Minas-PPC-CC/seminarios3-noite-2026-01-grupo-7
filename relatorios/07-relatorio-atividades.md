@@ -16,18 +16,18 @@
 
 | Data | Etapa | Descrição do que foi feito |
 | ------ | ------- | --------------------------- |
-| | Formação do grupo | 01/03/2026 |
+| 01/03/2026 | Formação do grupo |  |
 | | Contato inicial com a comunidade | |
-| | Levantamento de demandas | 15/03/2026 |
-| | Definição de requisitos | 21/03/2026 |
-| | Prototipação / wireframes | 12/04/2026 |
-| | Desenvolvimento — Sprint 1 |16/05/2026 |
+| 15/03/2026 | Levantamento de demandas |  |
+| 21/03/2026 | Definição de requisitos |  |
+| 12/04/2026 | Prototipação / wireframes |  |
+| 16/05/2026 | Desenvolvimento — Sprint 1 | |
 | | Validação intermediária com a comunidade |  |
-| | Desenvolvimento — Sprint 2 | 25/05/2026 |
-| | Testes e ajustes | 28/05/2026 |
-| | Deploy em nuvem | 01/06/2026 |
-| | **Entrega presencial do software** | 18/06/2026 |
-| | Preenchimento dos relatórios | 13/06/2026 |
+| 25/05/2026 | Desenvolvimento — Sprint 2 | |
+| 28/05/2026 | Testes e ajustes |  |
+| 01/06/2026 | Deploy em nuvem |  |
+| 18/06/2026 | **Entrega presencial do software** |  |
+| 13/06/2026 | Preenchimento dos relatórios |  |
 
 ## Testes realizados
 
