@@ -60,8 +60,6 @@ Com base nessas demandas, foi proposta a criação de uma aplicação web intera
 | Data | Forma de contato | Resumo do que foi tratado |
 | ------ | ----------------- | -------------------------- |
 | 06/03/2026 | Reunião via Teams | Foi tratado sobre o que o projeto se trata e como isso pode servir com auxílio e ensino dinâmico para os alunos da Tarso de Coimbra |
-| | | |
-| | | |
 
 ## 5. Agendamento da Entrega Presencial
 
