@@ -63,6 +63,9 @@ A entrega presencial ainda não foi feita e está prevista para ser entregue dia
 ### Resultados
 
 (O software atendeu às demandas? Feedback da comunidade? O software está acessível pela Internet?)
+Conseguiremos o feedback geral depois da entrega presencial...
+
+Software se encontra acessível pela internet por causa do github pages
 
 ## Evidências para Anexar no APC
 
