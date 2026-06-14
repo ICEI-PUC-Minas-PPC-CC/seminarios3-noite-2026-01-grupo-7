@@ -16,18 +16,18 @@
 
 | Data | Etapa | Descrição do que foi feito |
 | ------ | ------- | --------------------------- |
-| 01/03/2026 | Formação do grupo |  |
-| 06/03/2026 | Contato inicial com a comunidade | |
-| 15/03/2026 | Levantamento de demandas |  |
-| 21/03/2026 | Definição de requisitos |  |
-| 12/04/2026 | Prototipação / wireframes |  |
-| 16/05/2026 | Desenvolvimento — Sprint 1 | |
+| 01/03/2026 | Formação do grupo | Organização da equipe, definição dos integrantes e distribuição das funções de cada um. |
+| 06/03/2026 | Contato inicial com a comunidade | O contato foi feito via,  |
+| 15/03/2026 | Levantamento de demandas | Levantamento feito atráves de conversas e ánalises para criar um software intuitivo para tratar várias situações do dia a dia e algumas virtudes |
+| 21/03/2026 | Definição de requisitos | Quiz sobre ética e moral no dia a dia, junto de um sistema de pontuações com ranking |
+| 12/04/2026 | Prototipação / wireframes | Iniciação do e planejamento do MVP |
+| 16/05/2026 | Desenvolvimento — Sprint 1 | Iniciação do MVP (Base do projeto), implantando o HTML, CSS e JS junto do sistema de quizes |
 | 20/05/2026 | Validação intermediária com a comunidade |  |
 | 25/05/2026 | Desenvolvimento — Sprint 2 | |
 | 28/05/2026 | Testes e ajustes |  |
 | 01/06/2026 | Deploy em nuvem |  |
-| 18/06/2026 | **Entrega presencial do software** |  |
-| 13/06/2026 | Preenchimento dos relatórios |  |
+| 18/06/2026 | **Entrega presencial do software** | A entrega será feita no dia 18/06/2026 |
+| 13/06/2026 | Preenchimento dos relatórios | Descrições preenchidas de acordo com as ações feitas durante o decorrer do projeto |
 
 ## Testes realizados
 
