@@ -36,6 +36,8 @@
 - Teste responsivo
 - Teste de reinicialização
 
+Ambos foram testados e realizados com sucesso
+
 ## Descrição das Atividades Realizadas
 
 (Descreva de forma detalhada as atividades desenvolvidas ao longo do semestre.)
@@ -52,6 +54,8 @@
 
 (Como foi a entrega presencial? Quantos participantes? Como foi a recepção do software pela comunidade?)
 
+A entrega presencial ainda não foi feita e está prevista para ser entregue dia 18/06/2026
+
 ### Resultados
 
 (O software atendeu às demandas? Feedback da comunidade? O software está acessível pela Internet?)
@@ -61,6 +65,8 @@
 ### Fotos da entrega presencial
 
 > Anexar fotos da entrega presencial do software. As fotos devem mostrar a interação com a comunidade.
+
+(Fotos a serem tiradas no dia 18/03/2026)
 
 - [ ] Fotos salvas em `evidencias/fotos/`
 
@@ -73,3 +79,5 @@
 ## Observações
 
 (Dificuldades, aprendizados, sugestões para próximas turmas, etc.)
+
+(Observações a serem capturadas no dia 18/06/2026)
