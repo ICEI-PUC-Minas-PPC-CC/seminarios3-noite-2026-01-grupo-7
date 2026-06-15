@@ -43,15 +43,19 @@ Documentar e organizar os requisitos identificados.
 
 ---
 
-### Semana 03 — ___/___/___ a ___/___/___
+### Semana 03 — 05/03 a 11/03
 
-**O que foi feito:**
+O que foi feito:
+Análise das informações coletadas e elaboração do documento de requisitos. Foram definidos os objetivos da aplicação, funcionalidades iniciais e escopo do MVP.
 
-**Quem participou:**
+Quem participou:
+Todos os integrantes do grupo.
 
-**Decisões técnicas tomadas:**
+Decisões técnicas tomadas:
+Escolha das tecnologias HTML, CSS e JavaScript para o desenvolvimento inicial do MVP, com possibilidade de utilização de React nas próximas etapas.
 
-**Próximos passos:**
+Próximos passos:
+Criar protótipos e wireframes da aplicação.
 
 ---
 
