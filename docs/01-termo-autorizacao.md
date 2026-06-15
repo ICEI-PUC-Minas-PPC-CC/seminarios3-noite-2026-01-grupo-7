@@ -69,7 +69,7 @@ Com base nessas demandas, foi proposta a criação de uma aplicação web intera
 | Horário de início | 14:00 |
 | Horário de término | 15:00 ou 15:30 |
 | Local de realização | Laboratório da PUC Minas |
-| Data alternativa | Caso tenha possibilidade de apresentarmos de forma online, dia 20/06/2026|
+| Data alternativa | Caso tenha possibilidade de apresentarmos de forma online, data a combinar com a instituição|
 
 > **Obs.:** A entrega deve ser, preferencialmente, presencial. O agendamento está sujeito à confirmação pelo professor responsável.
 
