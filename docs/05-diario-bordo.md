@@ -59,7 +59,27 @@ Criar protótipos e wireframes da aplicação.
 
 ---
 
-*(Copie o bloco acima para cada semana de atividade ao longo do semestre.)*
+### Semana 04 — ___/___/___ a ___/___/___
+
+**O que foi feito:**
+
+**Quem participou:**
+
+**Decisões técnicas tomadas:**
+
+**Próximos passos:**
+
+---
+
+### Semana 05 — ___/___/___ a ___/___/___
+
+**O que foi feito:**
+
+**Quem participou:**
+
+**Decisões técnicas tomadas:**
+
+**Próximos passos:**
 
 ---
 
