@@ -40,7 +40,7 @@
 | Público-alvo | Pessoas com deficiência auditiva vinculadas à instituição CMAEE Dr.Tarso de Coimbra |
 | Nº estimado de usuários | Aproximadamente 15 usúarios |
 | Faixa etária do público | Todas as idades |
-| Tecnologias previstas | Desenvolvimento web utilizando ferramentas de Vibe Coding, HTML, CSS, JavaScript e React |
+| Tecnologias previstas | Desenvolvimento web utilizando ferramentas de Vibe Coding, HTML, CSS, JavaScript |
 | Hospedagem prevista | Hospedagem em repositório no GitHub com acesso por meio de uma página web |
 
 ### Breve descrição da aplicação e sua finalidade
