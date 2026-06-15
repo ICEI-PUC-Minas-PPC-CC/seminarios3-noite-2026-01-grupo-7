@@ -18,13 +18,13 @@
 
 | Semana | Período (dd/MM à dd/MM) | Atividade planejada | Responsável | Status |
 | :------: | --------- | -------------------- | -----------: | :------: |
-| 1 | 18/02 à 25/02 | Formação do grupo | Todos | concluído |
-| 2 | 26/02 à 04/03 | Contato com comunidade e Levantamento de demandas | Todos | concluído |
-| 3 | 05/03 à 11/03 | Definição de requisitos | Pedro | concluído |
-| 4 | 12/03 à 18/03 | Prototipação / wireframes | Pedro | concluído |
-| 5 | 19/03 à 25/03 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | concluído |
-| 6 | 26/03 à 01/04 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | concluído |
-| 7 | 02/04 à 08/04 | Validação com a comunidade | Todos | Pendente |
+| 1 | 18/02 à 05/03 | Formação do grupo | Todos | concluído |
+| 2 | 26/02 à 20/03 | Contato com comunidade e Levantamento de demandas | Todos | concluído |
+| 3 | 05/03 à 11/04 | Definição de requisitos | Pedro | concluído |
+| 4 | 12/04 à 15/04 | Prototipação / wireframes | Pedro | concluído |
+| 5 | 16/04 à 30/04 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | concluído |
+| 6 | 01/05 à 19/05 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | concluído |
+| 7 | 20/05 à 24/05 | Validação com a comunidade | Todos | Pendente |
 | 8 | 09/04 à 15/04 | Desenvolvimento — Sprint 2 | Erick/Breno/Rafael | concluído |
 | 9 | 16/04 à 22/04 | Desenvolvimento — Sprint 2 | Erick/Breno/Rafael | concluídoo |
 | 10 | 23/04 à 29/04 | Testes e ajustes | Todos | concluído |
