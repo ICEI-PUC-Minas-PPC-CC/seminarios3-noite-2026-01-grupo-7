@@ -27,15 +27,19 @@ Entrar em contato com a comunidade e levantar as principais necessidades dos usu
 
 ---
 
-### Semana 02 — ___/___/___ a ___/___/___
+### Semana 02 — 26/02 a 04/03
 
-**O que foi feito:**
+O que foi feito:
+Contato inicial com a instituição CMAEE Dr. Tarso de Coimbra para levantamento das demandas da comunidade. Foram coletadas informações sobre o público-alvo e possíveis funcionalidades para a aplicação.
 
-**Quem participou:**
+Quem participou:
+Todos os integrantes do grupo.
 
-**Decisões técnicas tomadas:**
+Decisões técnicas tomadas:
+Definição do público-alvo como pessoas com deficiência auditiva vinculadas à instituição. Levantamento inicial das funcionalidades educacionais desejadas.
 
-**Próximos passos:**
+Próximos passos:
+Documentar e organizar os requisitos identificados.
 
 ---
 
