@@ -75,11 +75,11 @@ Com base nessas demandas, foi proposta a criação de uma aplicação web intera
 
 ## 6. Autorização
 
-- [ ] O representante da comunidade autorizou o desenvolvimento voluntário e entrega do software.
-- [ ] As demandas refletem necessidades reais identificadas em contato com a comunidade.
-- [ ] O representante está ciente de que o professor poderá entrar em contato para validação e acompanhamento.
-- [ ] Foi autorizado o registro fotográfico da entrega para fins de documentação acadêmica.
-- [ ] A comunidade se compromete a disponibilizar horários para reuniões durante o desenvolvimento.
+- [x] O representante da comunidade autorizou o desenvolvimento voluntário e entrega do software.
+- [x] As demandas refletem necessidades reais identificadas em contato com a comunidade.
+- [x] O representante está ciente de que o professor poderá entrar em contato para validação e acompanhamento.
+- [x] Foi autorizado o registro fotográfico da entrega para fins de documentação acadêmica.
+- [x] A comunidade se compromete a disponibilizar horários para reuniões durante o desenvolvimento.
 
 ## 7. Cláusula LGPD
 
