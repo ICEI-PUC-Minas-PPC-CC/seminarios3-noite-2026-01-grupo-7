@@ -17,7 +17,7 @@
 | Data | Etapa | Descrição do que foi feito |
 | ------ | ------- | --------------------------- |
 | 01/03/2026 | Formação do grupo | Organização da equipe, definição dos integrantes e distribuição das funções de cada um. |
-| 06/03/2026 | Contato inicial com a comunidade |  |
+| 06/03/2026 | Contato inicial com a comunidade | Discutir possíveis temas de projeto e identificar demandas da comunidade atendida pela instituição em reunião com a responsável pela Instituição via Teams |
 | 15/03/2026 | Levantamento de demandas | Levantamento feito atráves de conversas e ánalises para criar um software intuitivo para tratar várias situações do dia a dia e algumas virtudes |
 | 21/03/2026 | Definição de requisitos | Quiz sobre ética e moral no dia a dia, junto de um sistema de pontuações com ranking |
 | 12/04/2026 | Prototipação / wireframes | Iniciação do e planejamento do MVP |
