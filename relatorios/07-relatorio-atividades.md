@@ -34,9 +34,11 @@
 - Teste do cronômetro
 - Teste de pontuação
 - Teste responsivo
-- Teste de reinicialização
-
-Ambos foram testados e realizados com sucesso
+- Teste de banco de dados
+- Teste de hospedagem em nuvem (GitHub pages) e localmente
+- Teste de funcionalidades gerais
+  
+Todos foram testados e realizados com sucesso
 
 ## Descrição das Atividades Realizadas
 
@@ -52,20 +54,20 @@ O levantamento das demandas foi realizado por meio de conversas com responsávei
 
 (Quais tecnologias foram utilizadas? Como foi organizado o trabalho? Principais desafios técnicos?)
 
-Foi usado como criação do banco de dados a Supabase e a interface em si foi utilizado HTML, CSS, JS. O trabalho foi organizado em duas principais partes, sendo elas a criação da interface e a interface final, onde alguns integrantes ficaram responsáveis pela criação da interface básica (como o MVP), criando a estrutura e o primeiro modelo do nosso sistema de quiz, e outros integrantes responsáveis para a criação da interface finalm do projeto, aplicando melhorias no código, interligação com o banco de dados para o sistema de ranking e login e o deploy em nuvem também. No projeto em si não foi encontrado tantos desafios técnicos que julgamos "difícil", acreditamos que a única dificuldade foi tentar filtrar a interface o máximo possível para que seja um sistema bem dinâmico para o público alvo
+Foi usado como criação do banco de dados a Supabase e a interface em si foi utilizado HTML, CSS, JS. O trabalho foi organizado em duas principais partes, sendo elas a criação da interface e a interface final, onde alguns integrantes ficaram responsáveis pela criação da interface básica (como o MVP), criando a estrutura e o primeiro modelo do nosso sistema de quiz, e outros integrantes responsáveis para a criação da interface finalm do projeto, aplicando melhorias no código, interligação com o banco de dados para o sistema de ranking e o deploy em nuvem também. No projeto em si não foi encontrado tantos desafios técnicos que julgamos "difícil", acreditamos que a única dificuldade foi tentar filtrar a interface o máximo possível para que seja um sistema bem dinâmico para o público alvo.
 
 ### Entrega
 
 (Como foi a entrega presencial? Quantos participantes? Como foi a recepção do software pela comunidade?)
 
-A entrega presencial ainda não foi feita e está prevista para ser entregue dia 18/06/2026
+A entrega presencial ainda não foi feita e está prevista para ser entregue dia 18/06/2026.
 
 ### Resultados
 
 (O software atendeu às demandas? Feedback da comunidade? O software está acessível pela Internet?)
-Conseguiremos o feedback geral depois da entrega presencial...
 
-Software se encontra acessível pela internet por causa do github pages
+Até o momento como o software ainda não foi entregue a comunidade, apenas cumpre as demandas declaradas no repostório e está acessível pela Internet através do GitHub Pages.
+Assim que a entrega for realizada dia 18/06 na PUC Minas ou virtualmente em data a ser marcada as alterações pendentes serão feitas.
 
 ## Evidências para Anexar no APC
 
