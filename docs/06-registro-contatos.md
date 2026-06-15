@@ -46,22 +46,6 @@ Ficou combinado que o grupo iria definir melhor a proposta do software, realizar
 
 ---
 
-### Contato #3
-
-| Campo | Informação |
-| ------- | ----------- |
-| Data | |
-| Forma de contato | |
-| Participantes do grupo | |
-| Participantes da comunidade | |
-| Objetivo do contato | |
-
-**Resumo do que foi tratado:**
-
-**Encaminhamentos:**
-
----
-
 (Copie o bloco acima para cada contato adicional.)
 
 ---
@@ -70,6 +54,6 @@ Ficou combinado que o grupo iria definir melhor a proposta do software, realizar
 
 | # | Demanda | Prioridade | Como será atendida no software |
 | --- | --------- | :----------: | ------------------------------- |
-| 1 | | *(Alta/Média/Baixa)* | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Interface visualmente clara e objetiva | *Alta* | Aplicação da interface acessível e intuitiva |
+| 2 | Tratar de conceitos como valores éticos de forma didática | *Alta* | Questões sobre valores éticos de forma simples e didática |
+| 3 | Acessibilidade do projeto via internet ou local | *Alta* | Hospedagem no GitHub Pages e versão salva em pendrive para apresentação offline |
