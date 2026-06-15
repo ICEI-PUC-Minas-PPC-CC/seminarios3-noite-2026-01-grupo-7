@@ -18,20 +18,20 @@
 
 | Semana | Período (dd/MM à dd/MM) | Atividade planejada | Responsável | Status |
 | :------: | --------- | -------------------- | -----------: | :------: |
-| 1 | 18/02 à 05/03 | Formação do grupo | Todos | concluído |
-| 2 | 26/02 à 20/03 | Contato com comunidade e Levantamento de demandas | Todos | concluído |
-| 3 | 05/03 à 11/04 | Definição de requisitos | Pedro | concluído |
-| 4 | 12/04 à 15/04 | Prototipação / wireframes | Pedro | concluído |
-| 5 | 16/04 à 30/04 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | concluído |
-| 6 | 01/05 à 19/05 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | concluído |
+| 1 | 18/02 à 05/03 | Formação do grupo | Todos | Concluído |
+| 2 | 26/02 à 20/03 | Contato com comunidade e Levantamento de demandas | Todos | Concluído |
+| 3 | 05/03 à 11/04 | Definição de requisitos | Pedro | Concluído |
+| 4 | 12/04 à 15/04 | Prototipação / wireframes | Pedro | Concluído |
+| 5 | 16/04 à 30/04 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | Concluído |
+| 6 | 01/05 à 19/05 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | Concluído |
 | 7 | 20/05 à 24/05 | Validação com a comunidade | Todos | Pendente |
-| 8 | 25/05 à 27/05 | Desenvolvimento — Sprint 2 | Erick/Breno/Rafael | concluído |
-| 9 | 28/05 à 31/05 | Desenvolvimento — Sprint 2 | Erick/Breno/Rafael | concluídoo |
+| 8 | 25/05 à 27/05 | Desenvolvimento — Sprint 2 | Erick/Breno/Rafael | Concluído |
+| 9 | 28/05 à 31/05 | Desenvolvimento — Sprint 2 | Erick/Breno/Rafael | Concluídoo |
 | 10 | 01/06 à 07/06 | Testes e ajustes | Todos | concluído |
-| 11 | 08/06 à 12/06 | Deploy / hospedagem | Rafael/Breno | concluído |
-| 12 | 13/06 à 17/06 | Validação final com a comunidade | Todos | concluído |
+| 11 | 08/06 à 12/06 | Deploy / hospedagem | Rafael/Breno | Concluído |
+| 12 | 13/06 à 17/06 | Validação final com a comunidade | Todos | Pendente |
 | 13 | 18/06 à 18/06 | **Entrega presencial** | Todos | Pendente |
-| 14 | 19/06 à 27/06 | Preenchimento dos relatórios APC | Todos | concluído |
+| 14 | 19/06 à 27/06 | Preenchimento dos relatórios APC | Todos | Concluído |
 
 > Ajuste o cronograma conforme o calendário do semestre e os feriados.
 
@@ -44,7 +44,7 @@
 | Protótipo aprovado | 12/04 | Wireframes validados com a comunidade |
 | MVP funcional | 22/04 | Funcionalidades mínimas operacionais |
 | Deploy realizado | 06/05 | Aplicação acessível pela Internet |
-| Entrega presencial | 20/06 | Software apresentado à comunidade |
+| Entrega presencial | 18/06 | Software apresentado à comunidade |
 | Relatórios APC | 13/06 | Relatório e autoavaliação preenchidos |
 
 ## 4. Estratégia de Desenvolvimento
