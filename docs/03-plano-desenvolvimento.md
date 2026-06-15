@@ -1,7 +1,7 @@
 # 03 — Plano e Cronograma de Desenvolvimento
 
 > **Grupo:** 7
-> **Aplicação:** Kahoot Acessível
+> **Aplicação:** TarsoQuiz
 
 ---
 
@@ -21,17 +21,17 @@
 | 1 | 18/02 à 25/02 | Formação do grupo | Todos | concluído |
 | 2 | 26/02 à 04/03 | Contato com comunidade e Levantamento de demandas | Todos | concluído |
 | 3 | 05/03 à 11/03 | Definição de requisitos | Pedro | concluído |
-| 4 | 12/03 à 18/03 | Prototipação / wireframes | Pedro | iniciado |
-| 5 | 19/03 à 25/03 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | não iniciado |
-| 6 | 26/03 à 01/04 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | não iniciado |
-| 7 | 02/04 à 08/04 | Validação com a comunidade | Todos | não iniciado |
-| 8 | 09/04 à 15/04 | Desenvolvimento — Sprint 2 | Erick/Breno/Rafael | não iniciado |
-| 9 | 16/04 à 22/04 | Desenvolvimento — Sprint 2 | Erick/Breno/Rafael | não iniciado |
-| 10 | 23/04 à 29/04 | Testes e ajustes | Todos | não iniciado |
-| 11 | 30/04 à 06/05 | Deploy / hospedagem | Rafael/Breno | não iniciado |
-| 12 | 07/05 à 13/05 | Validação final com a comunidade | Todos | não iniciado |
-| 13 | 14/05 à 20/05 | **Entrega presencial** | Todos | não iniciado |
-| 14 | 21/05 à 27/05 | Preenchimento dos relatórios APC | Todos | não iniciado |
+| 4 | 12/03 à 18/03 | Prototipação / wireframes | Pedro | concluído |
+| 5 | 19/03 à 25/03 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | concluído |
+| 6 | 26/03 à 01/04 | Desenvolvimento — Sprint 1 | Erick/Breno/Rafael | concluído |
+| 7 | 02/04 à 08/04 | Validação com a comunidade | Todos | Pendente |
+| 8 | 09/04 à 15/04 | Desenvolvimento — Sprint 2 | Erick/Breno/Rafael | concluído |
+| 9 | 16/04 à 22/04 | Desenvolvimento — Sprint 2 | Erick/Breno/Rafael | concluídoo |
+| 10 | 23/04 à 29/04 | Testes e ajustes | Todos | concluído |
+| 11 | 30/04 à 06/05 | Deploy / hospedagem | Rafael/Breno | concluído |
+| 12 | 07/05 à 13/05 | Validação final com a comunidade | Todos | concluído |
+| 13 | 14/05 à 20/05 | **Entrega presencial** | Todos | Pendente |
+| 14 | 21/05 à 27/05 | Preenchimento dos relatórios APC | Todos | concluído |
 
 > Ajuste o cronograma conforme o calendário do semestre e os feriados.
 
@@ -59,7 +59,7 @@ Os testes serão manuais. A equipe fará rodadas de testes locais navegando pela
 
 ### Estratégia de deploy
 
-O Front-end será hospedado gratuitamente na Vercel (conectado ao GitHub para deploy automático a cada novo commit na branch main). O Back-end será hospedado no Railway.
+O Front-end será hospedado gratuitamente no GitHub Pages. O Back-end será hospedado no Supabase.
 
 ## 5. Riscos e Mitigações
 
