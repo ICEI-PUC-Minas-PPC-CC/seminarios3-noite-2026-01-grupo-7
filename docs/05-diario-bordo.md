@@ -1,7 +1,7 @@
 # 05 — Diário de Bordo do Grupo
 
-> **Grupo:** *(preencher)*  
-> **Aplicação:** *(preencher)*
+> **Grupo:** *Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo*  
+> **Aplicação:** *TarsoQuiz*
 
 ---
 
