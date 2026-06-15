@@ -11,19 +11,19 @@
 
 ## Registro de Atividades
 
-### Semana 01 — ___/___/___ a ___/___/___
+### Semana 01 — 18/02 a 25/02
 
-**O que foi feito:**
-*(Descrever as atividades realizadas nesta semana: desenvolvimento, reuniões, testes, etc.)*
+O que foi feito:
+Formação do grupo de trabalho, definição dos integrantes e discussão inicial sobre os objetivos do projeto. Foram realizadas reuniões para compreender a proposta do APC e alinhar as responsabilidades de cada integrante.
 
-**Quem participou:**
-*(Listar integrantes envolvidos.)*
+Quem participou:
+Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino e Rafael Siqueira Leonardo.
 
-**Decisões técnicas tomadas:**
-*(Alguma decisão relevante sobre tecnologia, escopo, design, etc.?)*
+Decisões técnicas tomadas:
+Definição do desenvolvimento de uma aplicação educacional voltada para pessoas com deficiência auditiva.
 
-**Próximos passos:**
-*(O que precisa ser feito na próxima semana?)*
+Próximos passos:
+Entrar em contato com a comunidade e levantar as principais necessidades dos usuários.
 
 ---
 
