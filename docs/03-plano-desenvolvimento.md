@@ -39,13 +39,13 @@
 
 | Marco | Data prevista | Critério de conclusão |
 | ------- | :------------: | ---------------------- |
-| Demandas levantadas | 04/03 | Registro de contato com a comunidade |
+| Demandas levantadas | 15/03 | Registro de contato com a comunidade |
 | Requisitos definidos | 21/03 | Documento `02-documento-requisitos.md` preenchido |
-| Protótipo aprovado | 25/03 | Wireframes validados com a comunidade |
+| Protótipo aprovado | 12/04 | Wireframes validados com a comunidade |
 | MVP funcional | 22/04 | Funcionalidades mínimas operacionais |
 | Deploy realizado | 06/05 | Aplicação acessível pela Internet |
-| Entrega presencial | 15/05 | Software apresentado à comunidade |
-| Relatórios APC | 25/05 | Relatório e autoavaliação preenchidos |
+| Entrega presencial | 20/06 | Software apresentado à comunidade |
+| Relatórios APC | 13/06 | Relatório e autoavaliação preenchidos |
 
 ## 4. Estratégia de Desenvolvimento
 
