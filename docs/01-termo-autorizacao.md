@@ -68,7 +68,7 @@ Com base nessas demandas, foi proposta a criação de uma aplicação web intera
 | Data prevista para entrega | 18/06/2026 |
 | Horário de início | 14:00 |
 | Horário de término | 15:00 ou 15:30 |
-| Local de realização | Laboratório da PUC Minas |
+| Local de realização | Laboratório de Informática 3 da PUC Minas campus Poços de Caldas |
 | Data alternativa | Caso tenha possibilidade de apresentarmos de forma online, data a combinar com a instituição|
 
 > **Obs.:** A entrega deve ser, preferencialmente, presencial. O agendamento está sujeito à confirmação pelo professor responsável.
