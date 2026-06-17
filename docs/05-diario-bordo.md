@@ -11,89 +11,167 @@
 
 ## Registro de Atividades
 
-### Semana 01 — 18/02 a 25/02
+# 05 — Diário de Bordo do Grupo
+
+> **Grupo:** *Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo*
+> **Aplicação:** *TarsoQuiz*
+
+---
+
+> **Importante:** Mantenha este diário atualizado ao longo do semestre. Ele será a base para o cronograma do relatório de atividades no APC. Registre **todas** as atividades: reuniões com a comunidade, sessões de desenvolvimento, testes, decisões técnicas, etc.
+
+---
+
+## Registro de Atividades
+
+### Semana 01 — 18/02 a 05/03
 
 O que foi feito:
-Formação do grupo de trabalho, definição dos integrantes e discussão inicial sobre os objetivos do projeto. Foram realizadas reuniões para compreender a proposta do APC e alinhar as responsabilidades de cada integrante.
+
+Formação do grupo de trabalho, definição dos integrantes e organização inicial das responsabilidades. Foram realizadas reuniões para compreender os objetivos do projeto e alinhar as etapas que seriam desenvolvidas durante o semestre.
 
 Quem participou:
+
 Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino e Rafael Siqueira Leonardo.
 
 Decisões técnicas tomadas:
-Definição do desenvolvimento de uma aplicação educacional voltada para pessoas com deficiência auditiva.
+
+Definição da proposta de desenvolver uma aplicação educacional interativa voltada para apoio ao aprendizado e acessibilidade.
 
 Próximos passos:
-Entrar em contato com a comunidade e levantar as principais necessidades dos usuários.
+
+Realizar contato com a comunidade e levantar necessidades para definição do escopo.
 
 ---
 
-### Semana 02 — 26/02 a 04/03
+### Semana 02 — 26/02 a 20/03
 
 O que foi feito:
-Contato inicial com a instituição CMAEE Dr. Tarso de Coimbra para levantamento das demandas da comunidade. Foram coletadas informações sobre o público-alvo e possíveis funcionalidades para a aplicação.
+
+Foi realizado contato com a instituição CMAEE Dr. Tarso de Coimbra e levantamento das demandas da comunidade. As informações foram obtidas por meio de conversas e análises para identificar dificuldades, oportunidades e funcionalidades relevantes para o sistema.
 
 Quem participou:
+
 Todos os integrantes do grupo.
 
 Decisões técnicas tomadas:
-Definição do público-alvo como pessoas com deficiência auditiva vinculadas à instituição. Levantamento inicial das funcionalidades educacionais desejadas.
+
+Definição do público-alvo e direcionamento do projeto para uma experiência educacional baseada em interação, acessibilidade e sistema de atividades.
 
 Próximos passos:
-Documentar e organizar os requisitos identificados.
+
+Organizar os dados coletados e iniciar a definição dos requisitos.
 
 ---
 
-### Semana 03 — 05/03 a 11/03
+### Semana 03 — 05/03 a 11/04
 
 O que foi feito:
-Análise das informações coletadas e elaboração do documento de requisitos. Foram definidos os objetivos da aplicação, funcionalidades iniciais e escopo do MVP.
+
+Análise das informações levantadas e elaboração dos requisitos do sistema. Foram definidos os objetivos do projeto, o escopo do MVP e funcionalidades como sistema de quizzes, pontuação e ranking.
 
 Quem participou:
-Todos os integrantes do grupo.
+
+Todos os integrantes do grupo, com apoio principal na documentação de requisitos.
 
 Decisões técnicas tomadas:
-Escolha das tecnologias HTML, CSS e JavaScript para o desenvolvimento inicial do MVP, com possibilidade de utilização de React nas próximas etapas.
+
+Escolha de HTML, CSS e JavaScript como base do desenvolvimento inicial e definição de uma arquitetura simples para facilitar evolução futura.
 
 Próximos passos:
-Criar protótipos e wireframes da aplicação.
+
+Criar protótipos e validar visualmente o funcionamento esperado.
 
 ---
 
-### Semana 04 — 25/05/2026 a 01/06/2026
+### Semana 04 — 12/04 a 15/04
 
 O que foi feito:
-Durante esta semana foi concluída a Sprint 2 do projeto, com a integração da aplicação ao banco de dados, melhorias no código e aperfeiçoamentos na interface gráfica. Também foram realizados testes envolvendo o banco de dados, o sistema de pontuação, a interface e os recursos de acessibilidade. E por fim, foi configurado o banco de dados no Supabase e realizado o deploy da aplicação utilizando GitHub Pages.
+
+Criação dos protótipos e wireframes da aplicação com foco em simplicidade visual e navegação intuitiva. Também foi iniciado o planejamento da estrutura do MVP.
 
 Quem participou:
-Todos os integrantes do grupo participaram 
+
+Pedro Henrique de Lima Firmino com validação e acompanhamento dos demais integrantes.
 
 Decisões técnicas tomadas:
-Foi definido o uso do Supabase para armazenamento e gerenciamento dos dados da aplicação, além da utilização do GitHub Pages para hospedagem do projeto. Também foi adotado o GitHub Actions para automatizar o processo de deploy, garantindo maior praticidade nas atualizações do sistema. 
+
+Definição da estrutura das telas, organização do fluxo do usuário e planejamento inicial da interface.
 
 Próximos passos:
-Nas próximas etapas serão realizados acompanhamentos do funcionamento da aplicação em produção, correções de possíveis falhas identificadas após a publicação, melhorias de desempenho e usabilidade, além da finalização da documentação e preparação para a apresentação do projeto.
+
+Iniciar o desenvolvimento do MVP e implementar funcionalidades principais.
 
 ---
 
-### Semana 05 — ___/___/___ a ___/___/___
+### Semana 05 — 16/04 a 19/05
 
-**O que foi feito:**
+O que foi feito:
 
-**Quem participou:**
+Desenvolvimento da Sprint 1 com implementação da base da aplicação. Foram desenvolvidas telas principais utilizando HTML, CSS e JavaScript, além da construção inicial do sistema de quizzes e da estrutura lógica do projeto.
 
-**Decisões técnicas tomadas:**
+Quem participou:
 
-**Próximos passos:**
+Erick Simo de Souza Fernandes, Breno da Silva Almeida e Rafael Siqueira Leonardo.
+
+Decisões técnicas tomadas:
+
+Organização modular do código e definição do MVP com foco em entregar funcionalidades essenciais antes da integração completa.
+
+Próximos passos:
+
+Realizar validação intermediária e coletar feedback para melhorias.
+
+---
+
+### Semana 06 — 20/05 a 31/05
+
+O que foi feito:
+
+Continuação do desenvolvimento da aplicação durante a Sprint 2. Nesta etapa foram realizadas melhorias na estrutura do código, integração com banco de dados, ajustes na interface gráfica e refinamento das funcionalidades já implementadas. Também foram executados testes internos para verificar funcionamento geral, pontuação e navegação da plataforma.
+
+Quem participou:
+
+Erick Simo de Souza Fernandes, Breno da Silva Almeida e Rafael Siqueira Leonardo.
+
+Decisões técnicas tomadas:
+
+Foi definido o uso do banco de dados para armazenamento das informações da aplicação e realizados ajustes na organização do projeto para facilitar manutenção e evolução futura.
+
+Próximos passos:
+
+Finalizar testes gerais do sistema, configurar o ambiente de deploy e preparar a documentação para encerramento do projeto.
+
+
+---
+
+### Semana 07 — 01/06 a 27/06
+
+O que foi feito:
+
+Foram realizados testes finais envolvendo funcionalidades, banco de dados, pontuação, interface e acessibilidade. Também foi configurado o deploy utilizando Supabase e GitHub Pages, realizada validação final, preenchimento dos relatórios APC e preparação da entrega presencial.
+
+Quem participou:
+
+Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino e Rafael Siqueira Leonardo.
+
+Decisões técnicas tomadas:
+
+Utilização do Supabase como solução para persistência de dados e GitHub Pages para hospedagem do projeto, junto do fluxo de publicação automatizado.
+
+Próximos passos:
+
+Realizar apresentação do software, coletar feedback e registrar melhorias futuras.
 
 ---
 
 ## Registro da Entrega Presencial
 
-**Data:** ___/___/___  
-**Local:**  
-**Horário:** ___ às ___  
-**Participantes do grupo presentes:**  
-**Nº de participantes da comunidade:**
+**Data:** 18/06/2026
+**Local:** CMAEE Dr. Tarso de Coimbra
+**Horário:** ___ às ___
+**Participantes do grupo presentes:** Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino e Rafael Siqueira Leonardo
+**Nº de participantes da comunidade:** ___
 
 ### Descrição da entrega
 
