@@ -155,7 +155,7 @@ Realizar apresentação do software, coletar feedback e registrar melhorias futu
 ## Registro da Entrega Presencial
 
 **Data:** 18/06/2026
-**Local:** Laboratório PUC Minas
+**Local:** Laboratório de Informática 3 da PUC Minas campus Poços de Caldas
 **Horário:** 14:00 às 15:00
 **Participantes do grupo presentes:** Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino e Rafael Siqueira Leonardo
 **Nº de participantes da comunidade:** 10 á 15
