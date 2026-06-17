@@ -79,7 +79,7 @@ Criação dos protótipos e wireframes da aplicação com foco em simplicidade v
 
 Quem participou:
 
-Pedro Henrique de Lima Firmino com validação e acompanhamento dos demais integrantes.
+Erick Simo de Souza Fernandes, Pedro Henrique de Lima Firmino com validação e acompanhamento dos demais integrantes.
 
 Decisões técnicas tomadas:
 
