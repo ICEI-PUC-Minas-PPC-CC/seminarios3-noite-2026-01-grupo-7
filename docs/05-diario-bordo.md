@@ -155,19 +155,22 @@ Realizar apresentação do software, coletar feedback e registrar melhorias futu
 ## Registro da Entrega Presencial
 
 **Data:** 18/06/2026
-**Local:** CMAEE Dr. Tarso de Coimbra
-**Horário:** ___ às ___
+**Local:** Laboratório PUC Minas
+**Horário:** 14:00 às 15:00
 **Participantes do grupo presentes:** Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino e Rafael Siqueira Leonardo
-**Nº de participantes da comunidade:** ___
+**Nº de participantes da comunidade:** 10 á 15
 
 ### Descrição da entrega
 
 (Relatar como foi a entrega: demonstração do software, reação dos usuários, dúvidas que surgiram, etc.)
+Entrega será realizada no dia 18/06/2026, então toda a documentação faltante será adicionada e atualizada.
 
 ### Feedback da comunidade
 
 (O que os usuários e responsáveis da comunidade acharam do software?)
+Resultados serão obtidos dia 18/06/2026.
 
 ### Lições aprendidas
 
 (O que o grupo faria diferente no desenvolvimento? O que deu certo?)
+Considerações finais serão preenchidas dia 18/06/2026.
