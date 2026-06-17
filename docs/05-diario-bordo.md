@@ -68,10 +68,11 @@ Quem participou:
 Todos os integrantes do grupo participaram 
 
 Decisões técnicas tomadas:
-Foi definido o uso do Supabase para armazenamento e gerenciamento dos dados da aplicação, além da utilização do GitHub Pages para hospedagem do projeto. Também foi adotado o GitHub Actions para automatizar o processo de deploy, garantindo maior praticidade nas atualizações do sistema.
+Foi definido o uso do Supabase para armazenamento e gerenciamento dos dados da aplicação, além da utilização do GitHub Pages para hospedagem do projeto. Também foi adotado o GitHub Actions para automatizar o processo de deploy, garantindo maior praticidade nas atualizações do sistema. 
 
 Próximos passos:
 Nas próximas etapas serão realizados acompanhamentos do funcionamento da aplicação em produção, correções de possíveis falhas identificadas após a publicação, melhorias de desempenho e usabilidade, além da finalização da documentação e preparação para a apresentação do projeto.
+
 ---
 
 ### Semana 05 — ___/___/___ a ___/___/___
