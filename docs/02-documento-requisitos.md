@@ -1,7 +1,7 @@
 02 — Documento de Requisitos do Software
 ---
 Grupo: 7 |
-Aplicação: Kahoot acessível |
+Aplicação: Kahoot acessível - TarsoQuiz|
 Comunidade: CMAEE Dr. Tarso de Coimbra 
 
 1. Visão Geral
@@ -22,10 +22,9 @@ O principal objetivo é facilitar o aprendizado, promover a inclusão digital e 
 
 | ID | Requisito | Prioridade | Origem da demanda |
 |---|---|---|---|
-| RF01 | Criação de questionários personalizados pelo professor. | Alta | Reunião com a comunidade |
-| RF02 | Inserção de imagens e GIFs (ex: Libras) nas perguntas/respostas. | Alta | Reunião com a comunidade |
-| RF03 | Geração de código/link para alunos acessarem a sala. | Alta | Reunião com a comunidade |
-| RF04 | Feedback visual imediato (acerto/erro). | Alta | Reunião com a comunidade |
+| RF01 | Criação de questionários personalizados voltados a valores. | Alta | Reunião com a comunidade |
+| RF02 | Geração de código/link para alunos acessarem a sala. | Alta | Reunião com a comunidade |
+| RF03 | Feedback visual imediato (acerto/erro). | Alta | Reunião com a comunidade |
 
 4. Requisitos Não Funcionais
 
@@ -43,17 +42,16 @@ O principal objetivo é facilitar o aprendizado, promover a inclusão digital e 
 - [x] Botões grandes e identificáveis
 - [x] Contraste adequado de cores
 - [x] Feedback visual (cores, animações e símbolos para acertos e erros)
-- [x] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
 - [x] Sem dependência de áudio para funcionalidades essenciais
 
 6. Tecnologias Escolhidas
 
 | Componente | Tecnologia |
 |---|---|
-| Front-end | HTML, CSS, JavaScript e React |
-| Back-end  | (Não definido – possível uso de Node.js) |
+| Front-end | HTML, CSS e JavaScript|
+| Back-end  | Supabase |
 | Prototipação/UI Design | Figma |
-| Banco de dados | Não definido |
+| Banco de dados | Supabase |
 | Hospedagem | Github Pages |
 
 7. Protótipo / Wireframes
