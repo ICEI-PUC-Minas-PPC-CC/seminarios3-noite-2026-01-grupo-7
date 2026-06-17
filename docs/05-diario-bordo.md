@@ -59,16 +59,19 @@ Criar protótipos e wireframes da aplicação.
 
 ---
 
-### Semana 04 — ___/___/___ a ___/___/___
+### Semana 04 — 25/05/2026 a 01/06/2026
 
-**O que foi feito:**
+O que foi feito:
+Durante esta semana foi concluída a Sprint 2 do projeto, com a integração da aplicação ao banco de dados, melhorias no código e aperfeiçoamentos na interface gráfica. Também foram realizados testes envolvendo o banco de dados, o sistema de pontuação, a interface e os recursos de acessibilidade. E por fim, foi configurado o banco de dados no Supabase e realizado o deploy da aplicação utilizando GitHub Pages.
 
-**Quem participou:**
+Quem participou:
+Todos os integrantes do grupo participaram 
 
-**Decisões técnicas tomadas:**
+Decisões técnicas tomadas:
+Foi definido o uso do Supabase para armazenamento e gerenciamento dos dados da aplicação, além da utilização do GitHub Pages para hospedagem do projeto. Também foi adotado o GitHub Actions para automatizar o processo de deploy, garantindo maior praticidade nas atualizações do sistema.
 
-**Próximos passos:**
-
+Próximos passos:
+Nas próximas etapas serão realizados acompanhamentos do funcionamento da aplicação em produção, correções de possíveis falhas identificadas após a publicação, melhorias de desempenho e usabilidade, além da finalização da documentação e preparação para a apresentação do projeto.
 ---
 
 ### Semana 05 — ___/___/___ a ___/___/___
