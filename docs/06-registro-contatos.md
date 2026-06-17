@@ -18,7 +18,7 @@
 | ------- | ----------- |
 | Data | 06/03/2026 |
 | Forma de contato | Online |
-| Participantes do grupo | Alunos da disciplina de Seminários 3 |
+| Participantes do grupo | Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo |
 | Participantes da comunidade | Fabiana |
 | Objetivo do contato | Discutir possíveis temas de projeto e identificar demandas da comunidade atendida pela instituição |
 
@@ -34,19 +34,16 @@ Ficou combinado que o grupo iria definir melhor a proposta do software, realizar
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data | |
-| Forma de contato | |
-| Participantes do grupo | |
-| Participantes da comunidade | |
-| Objetivo do contato | |
+| Data | 18/06/2026 |
+| Forma de contato | Presencial |
+| Participantes do grupo | Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo |
+| Participantes da comunidade | Estudantes da instituição Tarso de Coimbra e Fabiana |
+| Objetivo do contato | Entrega Presencial do Software |
 
-**Resumo do que foi tratado:**
+**Resumo do que foi tratado:*Entrega Presencial do Software ainda será realizada, os dados serão adicionados aqui.*
 
-**Encaminhamentos:**
+**Encaminhamentos:*Entrega Presencial do Software ainda será realizada, os dados serão adicionados aqui.*
 
----
-
-(Copie o bloco acima para cada contato adicional.)
 
 ---
 
