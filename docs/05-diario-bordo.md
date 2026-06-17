@@ -39,7 +39,7 @@ Foi realizado contato com a instituição CMAEE Dr. Tarso de Coimbra e levantame
 
 Quem participou:
 
-Todos os integrantes do grupo.
+Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino e Rafael Siqueira Leonardo.
 
 Decisões técnicas tomadas:
 
@@ -59,7 +59,7 @@ Análise das informações levantadas e elaboração dos requisitos do sistema. 
 
 Quem participou:
 
-Todos os integrantes do grupo, com apoio principal na documentação de requisitos.
+Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino e Rafael Siqueira Leonardo, com apoio principal na documentação de requisitos.
 
 Decisões técnicas tomadas:
 
