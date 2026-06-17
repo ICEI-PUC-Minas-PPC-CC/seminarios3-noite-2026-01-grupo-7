@@ -1,18 +1,5 @@
 # 05 — Diário de Bordo do Grupo
 
-> **Grupo:** *Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo*  
-> **Aplicação:** *TarsoQuiz*
-
----
-
-> **Importante:** Mantenha este diário atualizado ao longo do semestre. Ele será a base para o cronograma do relatório de atividades no APC. Registre **todas** as atividades: reuniões com a comunidade, sessões de desenvolvimento, testes, decisões técnicas, etc.
-
----
-
-## Registro de Atividades
-
-# 05 — Diário de Bordo do Grupo
-
 > **Grupo:** *Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo*
 > **Aplicação:** *TarsoQuiz*
 
