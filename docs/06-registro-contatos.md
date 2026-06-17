@@ -40,9 +40,9 @@ Ficou combinado que o grupo iria definir melhor a proposta do software, realizar
 | Participantes da comunidade | Estudantes da instituição Tarso de Coimbra e Fabiana |
 | Objetivo do contato | Entrega Presencial do Software |
 
-**Resumo do que foi tratado:*Entrega Presencial do Software ainda será realizada, os dados serão adicionados aqui.*
+**Resumo do que foi tratado:** *Entrega Presencial do Software ainda será realizada, os dados serão adicionados aqui.*
 
-**Encaminhamentos:*Entrega Presencial do Software ainda será realizada, os dados serão adicionados aqui.*
+**Encaminhamentos:** *Entrega Presencial do Software ainda será realizada, os dados serão adicionados aqui.*
 
 
 ---
