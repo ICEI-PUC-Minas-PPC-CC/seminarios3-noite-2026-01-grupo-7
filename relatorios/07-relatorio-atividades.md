@@ -60,14 +60,13 @@ Foi usado como criação do banco de dados a Supabase e a interface em si foi ut
 
 (Como foi a entrega presencial? Quantos participantes? Como foi a recepção do software pela comunidade?)
 
-A entrega presencial ainda não foi feita e está prevista para ser entregue dia 18/06/2026.
+Hoje fizemos a realização da entrega presencial para os alunos da Tarso, conseguimos deixar um ambiente bem dinâmico para os alunos, tinha em torno de 10 a 9 participantes. Os alunos gostaram muito da dinâmica, e os professores acharam o projeto bem inovador.
 
 ### Resultados
 
 (O software atendeu às demandas? Feedback da comunidade? O software está acessível pela Internet?)
 
-Até o momento como o software ainda não foi entregue a comunidade, apenas cumpre as demandas declaradas no repostório e está acessível pela Internet através do GitHub Pages.
-Assim que a entrega for realizada dia 18/06 na PUC Minas ou virtualmente em data a ser marcada as alterações pendentes serão feitas.
+O projeto atendeu todas as demandas que esperávamos, todos os alunos conseguiram participar e responder as perguntas, alguns tinham algumas dificiculdades mas nada que um apoio leve resolva, os professores também elogiaram bastante nosso projeto e disseram que gostaria até mesmo de usar projetos assim na escola para os alunos se entreterem. E como o projeto está via internet, caso seja de interesse, é possível enviar o link para a escola.
 
 ## Evidências para Anexar no APC
 
@@ -77,13 +76,13 @@ Assim que a entrega for realizada dia 18/06 na PUC Minas ou virtualmente em data
 
 (Fotos a serem tiradas no dia 18/03/2026)
 
-- [ ] Fotos salvas em `evidencias/fotos/`
+- [x] Fotos salvas em `evidencias/fotos/`
 
 ### Prints de tela da aplicação
 
 > Anexar prints das principais telas da aplicação desenvolvida.
 
-- [ ] Prints salvos em `evidencias/prints/`
+- [x] Prints salvos em `evidencias/prints/`
 
 ## Observações
 
