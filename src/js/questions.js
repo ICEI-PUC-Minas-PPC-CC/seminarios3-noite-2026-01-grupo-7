@@ -31,7 +31,7 @@ const questions = [
   },
   {
     question: 'Um jovem ouve com atenção e acolhe um amigo que está triste. Qual valor ele está demonstrando?',
-    image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a21a?w=740&q=80',
+    image: 'https://images.unsplash.com/photo-1661342667948-EBXCcBhBjBA?auto=format&fit=crop&w=740&q=80',
     answers: ['Indiferença', 'Empatia', 'Ironia', 'Impaciência'],
     correct: 1
   },
