@@ -162,15 +162,12 @@ Realizar apresentação do software, coletar feedback e registrar melhorias futu
 
 ### Descrição da entrega
 
-(Relatar como foi a entrega: demonstração do software, reação dos usuários, dúvidas que surgiram, etc.)
-A apresentação foi realizada, apresentamos do que se tratava projeto, mostramos a comunidade como funcionava e fizemos uma "competição" entre os membros da comunidade. Todos que estavam presentes participando gostaram muito do projeto e não houveram dúvidas a respeito.
+A apresentação foi realizada, apresentamos o projeto e do que se tratava, mostramos a comunidade como funcionava e fizemos uma "competição" entre os membros da comunidade. Todos que estavam presentes participando gostaram muito do projeto e não houveram dúvidas a respeito.
 
 ### Feedback da comunidade
 
-(O que os usuários e responsáveis da comunidade acharam do software?)
 Acharam um projeto muito intuititvo e também comentaram que os membros da comunidade gostam muito desse tipo de atividade e que é algo que eles gostariam de ver mais vezes 
 
 ### Lições aprendidas
 
-(O que o grupo faria diferente no desenvolvimento? O que deu certo?)
-Ao terminarmos a apresentação notamos que haviamos colocado pouco tempo para responder as questões do quizz, e como alguns alunos não conseguiam desenvolver respostas rápidas demais percebemos que isso foi algo que incomodou um pouco na hora de experimentar o projeto> Mas tirando essa consideração tudo funcionou como esperávamos
+Ao terminarmos a apresentação notamos que haviamos colocado pouco tempo para responder as questões do quizz, e como alguns alunos não conseguiam desenvolver respostas rápidas demais percebemos que isso foi algo que incomodou um pouco na hora de experimentar o projeto. Mas tirando essa consideração, tudo funcionou como esperávamos.
