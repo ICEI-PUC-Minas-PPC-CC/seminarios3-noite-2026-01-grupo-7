@@ -26,7 +26,7 @@
 | 25/05/2026 | Desenvolvimento — Sprint 2 | Integração com banco de dados, aperfeiçoamento do código e melhora em interface gráfica |
 | 28/05/2026 | Testes e ajustes | Teste de banco de dados, pontuação, interface, acessibilidade etc. |
 | 01/06/2026 | Deploy em nuvem | Criação do Banco de dados em Supabase e projeto apontado para rodar em github pages (em .github/workflows  |
-| 18/06/2026 | **Entrega presencial do software** | A entrega será feita no dia 18/06/2026 |
+| 18/06/2026 | Entrega presencial do software | Projeto apresentado e utilizado com a comunidade |
 | 13/06/2026 | Preenchimento dos relatórios | Descrições preenchidas de acordo com as ações feitas durante o decorrer do projeto |
 
 ## Testes realizados
