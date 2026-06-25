@@ -37,12 +37,12 @@ Ficou combinado que o grupo iria definir melhor a proposta do software, realizar
 | Data | 18/06/2026 |
 | Forma de contato | Presencial |
 | Participantes do grupo | Erick Simo de Souza Fernandes, Breno da Silva Almeida, Pedro Henrique de Lima Firmino, Rafael Siqueira Leonardo |
-| Participantes da comunidade | Estudantes da instituição Tarso de Coimbra e Fabiana |
+| Participantes da comunidade | Estudantes da instituição Tarso de Coimbra |
 | Objetivo do contato | Entrega Presencial do Software |
 
-**Resumo do que foi tratado:** *Entrega Presencial do Software ainda será realizada, os dados serão adicionados aqui.*
+**Resumo do que foi tratado:** *Entrega Presencial do Software TarsoQuiz*
 
-**Encaminhamentos:** *Entrega Presencial do Software ainda será realizada, os dados serão adicionados aqui.*
+**Encaminhamentos:** *Apreentação do projeto desenvolvido a comunidade, aplicação da dinâminca parecida com Kahoot(todos iniciando ao mesmo tempo) em que todos iriam responder ao quiz e acompanhar o leaderboard para ver seus resultados e dos demais participantes. Os participantes no início demonstraram uma pequena dificulade quanto ao tempo de resposta para cada questão, porém adoraram o jeito que foi aplicado e támbem de poderem "competir" para quem havia pontuado mais em menos tempo. Por fim a comunidade gostou do projeto e adicionou que tinha interesse explorar mais projetos com esse tipo de dinâmica para os alunos da Tarso de Coimbra.*
 
 
 ---
