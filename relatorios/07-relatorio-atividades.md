@@ -26,7 +26,7 @@
 | 25/05/2026 | Desenvolvimento — Sprint 2 | Integração com banco de dados, aperfeiçoamento do código e melhora em interface gráfica |
 | 28/05/2026 | Testes e ajustes | Teste de banco de dados, pontuação, interface, acessibilidade etc. |
 | 01/06/2026 | Deploy em nuvem | Criação do Banco de dados em Supabase e projeto apontado para rodar em github pages (em .github/workflows  |
-| 18/06/2026 | Entrega presencial do software | Projeto apresentado e utilizado com a comunidade |
+| 18/06/2026 | Entrega presencial do software | Projeto apresentado e aplicado a comunidade |
 | 13/06/2026 | Preenchimento dos relatórios | Descrições preenchidas de acordo com as ações feitas durante o decorrer do projeto |
 
 ## Testes realizados
@@ -42,39 +42,49 @@ Todos foram testados e realizados com sucesso
 
 ## Descrição das Atividades Realizadas
 
-(Descreva de forma detalhada as atividades desenvolvidas ao longo do semestre.)
+Durante o semestre, o Grupo 7 desenvolveu o projeto TarsoQuiz para a instituição CMAEE Dr. Tarso de Coimbra. Inicialmente, foram realizadas reuniões e conversas para entender as necessidades da comunidade e definir uma proposta que fosse mais acessível, interativa e adequada ao público atendido.
+
+Após o levantamento das demandas, foi definido o desenvolvimento de um sistema de quiz com perguntas relacionadas ao dia a dia, utilizando sistema de pontuação e ranking para incentivar a participação. Em seguida, foi feita a prototipação inicial (MVP) e iniciado o desenvolvimento utilizando HTML, CSS, JavaScript e Supabase.
+
+Ao longo do projeto, foram implementadas melhorias na interface, integração com banco de dados e realizados testes para validar funcionalidades como cronômetro, pontuação, responsividade e hospedagem em nuvem.
+
+Por fim, foi realizada a entrega presencial do software na instituição, onde os alunos puderam utilizar a aplicação e interagir com as atividades propostas. A recepção foi positiva tanto pelos participantes quanto pelos professores, que demonstraram interesse na utilização de ferramentas semelhantes em outras atividades.
 
 ### Levantamento de demandas
-
-(Como foi o contato com a comunidade? Quantas reuniões? Quais demandas foram identificadas?)
 
 O levantamento das demandas foi realizado por meio de conversas com responsáveis e análise do contexto da instituição Tarsa de Coimbra, que atende pessoas com deficiência auditiva. A partir dessas interações, identificou-se a necessidade de ferramentas digitais mais acessíveis e interativas que possam auxiliar no aprendizado e na comunicação no dia a dia. Com base nessas demandas, foi proposta a criação de uma aplicação web interativa que utiliza elementos visuais e dinâmicos para facilitar a participação dos usuários. A proposta busca promover maior inclusão digital, estimular o aprendizado e tornar as atividades mais atrativas para pessoas surdas de diferentes idades.
 
 ### Desenvolvimento
 
-(Quais tecnologias foram utilizadas? Como foi organizado o trabalho? Principais desafios técnicos?)
+Para o desenvolvimento do projeto, foram utilizadas tecnologias web como HTML, CSS e JavaScript para construção da interface da aplicação, além da plataforma Supabase para armazenamento e gerenciamento do banco de dados. O sistema foi estruturado como uma aplicação interativa baseada em quizzes, com foco em acessibilidade e experiência do usuário.
 
-Foi usado como criação do banco de dados a Supabase e a interface em si foi utilizado HTML, CSS, JS. O trabalho foi organizado em duas principais partes, sendo elas a criação da interface e a interface final, onde alguns integrantes ficaram responsáveis pela criação da interface básica (como o MVP), criando a estrutura e o primeiro modelo do nosso sistema de quiz, e outros integrantes responsáveis para a criação da interface finalm do projeto, aplicando melhorias no código, interligação com o banco de dados para o sistema de ranking e o deploy em nuvem também. No projeto em si não foi encontrado tantos desafios técnicos que julgamos "difícil", acreditamos que a única dificuldade foi tentar filtrar a interface o máximo possível para que seja um sistema bem dinâmico para o público alvo.
+A organização do trabalho foi dividida em etapas. Inicialmente, parte da equipe ficou responsável pela criação da interface inicial (MVP – Produto Mínimo Viável), definindo a estrutura do sistema, navegação e funcionalidades principais. Em seguida, outra parte dos integrantes atuou na evolução da interface final, realizando melhorias visuais e funcionais, integração com o banco de dados para implementação do sistema de ranking e realização do deploy da aplicação em ambiente online(GitHub Pages).
+
+Em relação aos desafios técnicos, não foram encontradas dificuldades complexas durante o desenvolvimento. O principal desafio esteve relacionado ao refinamento da interface e da experiência do usuário, buscando criar uma aplicação simples, dinâmica e acessível ao público-alvo, garantindo facilidade de interação e maior engajamento dos participantes.
 
 ### Entrega
 
-(Como foi a entrega presencial? Quantos participantes? Como foi a recepção do software pela comunidade?)
+A entrega do projeto foi realizada presencialmente na instituição Tarso de Coimbra, em um momento de apresentação e interação direta com os alunos. Participaram aproximadamente entre 9 e 10 alunos durante a atividade.
 
-Hoje fizemos a realização da entrega presencial para os alunos da Tarso, conseguimos deixar um ambiente bem dinâmico para os alunos, tinha em torno de 10 a 9 participantes. Os alunos gostaram muito da dinâmica, e os professores acharam o projeto bem inovador.
+Durante a demonstração, foi criado um ambiente dinâmico e participativo para incentivar o envolvimento dos alunos com a plataforma. Os participantes demonstraram interesse e engajamento ao utilizar o sistema, interagindo com as perguntas e explorando as funcionalidades propostas.
+
+A recepção por parte da equipe pedagógica também foi positiva, com comentários destacando o caráter inovador da proposta e seu potencial como ferramenta complementar para atividades educacionais e inclusão digital.
 
 ### Resultados
 
-(O software atendeu às demandas? Feedback da comunidade? O software está acessível pela Internet?)
+Os resultados obtidos indicam que o software atendeu às demandas inicialmente levantadas junto à instituição. Os alunos conseguiram utilizar a plataforma e participar das atividades propostas, respondendo às perguntas e interagindo com os recursos disponíveis.
 
-O projeto atendeu todas as demandas que esperávamos, todos os alunos conseguiram participar e responder as perguntas, alguns tinham algumas dificiculdades mas nada que um apoio leve resolva, os professores também elogiaram bastante nosso projeto e disseram que gostaria até mesmo de usar projetos assim na escola para os alunos se entreterem. E como o projeto está via internet, caso seja de interesse, é possível enviar o link para a escola.
+Embora alguns participantes tenham apresentado pequenas dificuldades durante o uso inicial, essas situações foram facilmente resolvidas com apoio e orientação durante a atividade, sem comprometer a experiência geral.
+
+O feedback recebido da comunidade foi bastante positivo. Os professores destacaram que o projeto trouxe uma abordagem mais interativa para o ambiente escolar e demonstraram interesse em utilizar iniciativas semelhantes futuramente como forma de tornar as atividades mais atrativas para os alunos.
+
+Além disso, como o sistema foi disponibilizado via internet, existe a possibilidade de compartilhamento e acesso remoto pela instituição caso haja interesse em continuidade ou futuras aplicações do projeto.
 
 ## Evidências para Anexar no APC
 
 ### Fotos da entrega presencial
 
 > Anexar fotos da entrega presencial do software. As fotos devem mostrar a interação com a comunidade.
-
-(Fotos a serem tiradas no dia 18/03/2026)
 
 - [x] Fotos salvas em `evidencias/fotos/`
 
@@ -86,6 +96,8 @@ O projeto atendeu todas as demandas que esperávamos, todos os alunos conseguira
 
 ## Observações
 
-(Dificuldades, aprendizados, sugestões para próximas turmas, etc.)
+O desenvolvimento do projeto proporcionou aprendizados importantes relacionados ao trabalho em equipe, divisão de responsabilidades, desenvolvimento de aplicações web e adaptação de soluções para diferentes públicos.
 
-(Observações a serem capturadas no dia 18/06/2026)
+Um dos principais aprendizados foi compreender a importância de projetar interfaces mais acessíveis e intuitivas, considerando que pequenas decisões visuais e de interação podem impactar significativamente a experiência dos usuários.
+
+Como sugestão para próximas turmas, recomenda-se realizar mais momentos de validação com o público durante o desenvolvimento do projeto, permitindo identificar oportunidades de melhoria antes da entrega final. Também seria interessante expandir funcionalidades futuras, como novos modos de jogo, relatórios de desempenho ou maior personalização da plataforma.
