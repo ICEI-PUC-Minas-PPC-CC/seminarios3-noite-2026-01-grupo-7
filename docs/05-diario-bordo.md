@@ -162,12 +162,12 @@ Realizar apresentação do software, coletar feedback e registrar melhorias futu
 
 ### Descrição da entrega
 
-A apresentação foi realizada, apresentamos o projeto e do que se tratava, mostramos a comunidade como funcionava e fizemos uma "competição" entre os membros da comunidade. Todos que estavam presentes participando gostaram muito do projeto e não houveram dúvidas a respeito.
+A apresentação foi realizada, apresentando o projeto e do que se tratava, mostrando a comunidade como funcionava e foi feita uma "competição" entre os membros da comunidade. Todos que estavam presentes participando gostaram muito do projeto e não houveram dúvidas a respeito. Os participantes ficaram muito entretidos com a dinâmica do projeto.
 
 ### Feedback da comunidade
 
-Acharam um projeto muito intuititvo e também comentaram que os membros da comunidade gostam muito desse tipo de atividade e que é algo que eles gostariam de ver mais vezes 
+Acharam um projeto muito intuititvo e também comentaram que os membros da comunidade gostam muito desse tipo de atividade, que é algo que eles gostariam de ver mais vezes por ser uma dinâminca intuitiva acessível e didática.
 
 ### Lições aprendidas
 
-Ao terminarmos a apresentação notamos que haviamos colocado pouco tempo para responder as questões do quizz, e como alguns alunos não conseguiam desenvolver respostas rápidas demais percebemos que isso foi algo que incomodou um pouco na hora de experimentar o projeto. Mas tirando essa consideração, tudo funcionou como esperávamos.
+Ao terminarmos a apresentação notamos que haviamos colocado pouco tempo para responder as questões do quiz, e como alguns alunos não conseguiam desenvolver respostas rápidas demais percebemos que isso foi algo que incomodou um pouco na hora de experimentar o projeto. Mas tirando essa consideração, tudo funcionou como esperávamos. No mais aprendemos a tratar necessidades de publico-alvo especificos de uma fomra que é mais adaptável a cada um, e também a superar dificuldades no desenvolvimento das aplicações reais de tencologia para fins de acessibilidade.
